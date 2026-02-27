@@ -226,6 +226,8 @@ body {
 
 /* styles for the page publication */
 .block-article{
+    line-height: 1.5;
+    text-indent: 0;
     position: relative;
     flex-direction: column;
 }
